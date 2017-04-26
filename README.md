@@ -1,5 +1,4 @@
-# braintree_oc2.1
-Braintree payments for Opencart 2.0.x &amp; 2.1.x
+# Braintree payments for Opencart 2.0.x &amp; 2.1.x
 TLT Braintree for Opencart 2.x
 Tested with Braintree library versio 3.23.0
 
