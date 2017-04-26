@@ -2,23 +2,6 @@
 Braintree payments for Opencart 2.0.x &amp; 2.1.x
 TLT Braintree for Opencart 2.x
 
---------
-FEEDBACK
---------
-
-If you find this software useful you can buy me a cup of tea using this link
-https://www.paypal.me/AMamykin/
-
-Get other my extensions from Opencart Extension Directory
-
-http://www.opencart.com/index.php?route=extension/extension&filter_username=timber
-
-If you find any errors or have any ideas feel free to contact me:
-
-e-mail: amamykin@gmail.com
-
-http://taiwanleaftea.com
-
 ---------
 IMPORTANT
 ---------
