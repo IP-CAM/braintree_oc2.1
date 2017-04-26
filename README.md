@@ -1,6 +1,7 @@
 # braintree_oc2.1
 Braintree payments for Opencart 2.0.x &amp; 2.1.x
 TLT Braintree for Opencart 2.x
+Tested with Braintree library versio 3.23.0
 
 ---------
 IMPORTANT
@@ -49,4 +50,4 @@ NOTES
 
 If your store is multi-currency you should get from Braintree Merchant Account ID for each currency used in your store. Otherwise a customer will be charged in your default currency. In this case you MUST notify your customer about it.
 
-The extension was tested with Braintree library version 3.8.0 and should work with the next versions. If the extension doesn't work please contact me.
+If the extension doesn't work please contact me.
